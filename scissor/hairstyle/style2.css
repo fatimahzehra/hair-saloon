@@ -1,0 +1,83 @@
+.st{
+    position: relative;
+    margin-left: 530px;
+    top: -100px;
+    color: white;
+}
+.imgone{
+    position: relative;
+    margin-left: 70px;
+}
+.imgtwo{
+    position: relative;
+    margin-left: 550px;
+    top: -510px;
+    
+}
+.imgthr{
+    position: relative;
+    margin-left: 1010px;
+    top: -1023px;
+}
+.imgfour{
+    position: relative;
+    margin-left: 70px;
+    top: -950px;
+}
+.imgfive{
+    position: relative;
+    margin-left: 550px;
+    top: -1459px;
+}
+.imgsix{
+    position: relative;
+    margin-left: 1000px;
+    top: -1970px;
+}
+.imgseven{
+    position: relative;
+    margin-left: 70px;
+    top: -1900px;
+}
+.imgeight{
+    position: relative;
+    margin-left: 550px;
+    top: -2415px;
+}
+.imgnine{
+    position: relative;
+    margin-left: 1010px;
+    top: -2925px;
+}
+.end{
+    position: relative;
+    bottom: 2800px;
+    background-color: rgb(112, 5, 5);
+    color: white;
+}
+.end  h1{
+    position: relative;
+    margin-left: 300px;
+    
+
+}
+.end h1,q{
+    margin-left:350px ;
+    position: relative;
+}
+.end img{
+    position: relative;
+    bottom: 40px;
+    margin-left: 180px;
+
+}
+.endt{
+    position: relative;
+    margin-left: 220px;
+    bottom: 3110px;
+}
+.endy{
+    position: relative;
+    margin-left: 900px;
+    bottom: 2900px;
+}

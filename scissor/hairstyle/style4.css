@@ -1,0 +1,62 @@
+.i{
+    position: relative;
+    margin-left: 550px;
+    top: -120px;
+    color: white;
+}
+.r{
+    position: relative;
+    margin-left: 300px;
+}
+.s{
+    position: relative;
+    margin-left: 300px;
+}
+.t{
+    position: relative;
+    margin-left: 1050px;
+    top: -550px;
+}
+.o{
+    position: relative;
+    margin-left: 300px;
+    bottom: 200px;
+}
+.a{
+    position: relative;
+    margin-left: 300px;
+    bottom: 100px;
+    font-weight: light;
+}
+.end{
+    position: relative;
+    bottom: 50px;
+    background-color: rgb(112, 5, 5);
+    color: white;
+}
+.end  h1{
+    position: relative;
+    margin-left: 300px;
+    
+
+}
+.end h1,q{
+    margin-left:350px ;
+    position: relative;
+}
+.end img{
+    position: relative;
+    bottom: 40px;
+    margin-left: 180px;
+
+}
+.endt{
+    position: relative;
+    margin-left: 220px;
+    bottom: 360px;
+}
+.endy{
+    position: relative;
+    margin-left: 900px;
+    bottom: 150px;
+}

@@ -1,0 +1,202 @@
+.lineone{
+    display: inline;
+    text-decoration: none;
+    list-style: none;
+    position: relative;
+    margin-left: 550px;
+    top:-220px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    position: relative;
+    padding-left: 25px;
+    top: -49px;
+}
+
+.a{
+    margin-left: 880px;
+    position: relative;
+    top: -50px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.b{
+    margin-left: 1000px;
+    position: relative;
+    top: -75px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.c{
+    margin-left: 1120px;
+    position: relative;
+    top: -105px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.d{
+    margin-left: 1253px;
+    position: relative;
+    top: -129px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.start2.firstimg.lineone{
+    background-color: blueviolet;
+}
+.secimg{
+    position: relative;
+    margin-left: 15px;
+}
+.thirdimg{
+    position: relative;
+    margin-left: 256px;
+    bottom: 317px;
+    bottom: 304px;
+}
+.fourthimg{
+    position: relative;
+    margin-left: 15px;
+    bottom: 300px;
+}
+.fifthimg{
+    position: relative;
+    margin-left: 255px;
+    bottom: 602px;
+}
+.sixthimg{
+    position: relative;
+    margin-left: 1200px;
+    bottom: 1000px;
+}
+.seventh{
+    position: relative;
+    margin-left: 500px;
+    bottom: 1212px;
+}
+.int{
+    position: relative;
+    margin-left: 850px;
+}
+.h{
+    font-size: 15px;
+    font-style: inherit;
+    font-weight: lighter;
+    position: relative;
+    top: -590px;
+    margin-left: 120px;
+}
+.p{
+    position: relative;
+    top: -500px;
+    margin-left: 50px;
+}
+.eighthimg{
+    position: relative;
+    bottom: 1820px;
+    margin-left: 1000px;
+}
+.ninth{
+    position: relative;
+    margin-left: 1000px;
+    bottom:1815px ;
+}
+.tenth{
+    position: relative;
+    margin-left: 1250px;
+    bottom: 2426px;
+}
+.eleventh{
+    position: relative;
+    margin-left: 1250px;
+    bottom: 2422px;
+}
+.new{
+    position: relative;
+    bottom:2170px;
+    color: white;
+    background-color: rgb(112, 5, 5);
+}
+.imgone img{
+    position: relative;
+    margin-left: 800px;
+    bottom: 2240px;
+}
+.new h1{
+    position: relative;
+    margin-left: 450px;
+}
+.imgsec{
+    position: relative;
+    margin-left: 190px;
+    bottom: 2480px;
+}
+.imgthi{
+    position: relative;
+    margin-left: 230px;
+    bottom: 2510px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+button{
+    text-decoration: none;
+}
+.abc{
+    position: relative;
+    margin-left: 100px;
+    top: 100px;
+}
+.firstimg{
+    position: relative;
+    top: -200px;
+}
+.x{
+    position: relative;
+    margin-left: 860px;
+    top: -45px;
+}
+.z{
+    position: relative;
+    margin-left: 650px;
+    top: -6px;
+}
+.c{
+    position: relative;
+    margin-left: 1090px ;
+    top: -92px;
+}
+.v{
+    position: relative;
+    top: -131px;
+    margin-left: 1350px;
+    border: 0;
+    list-style: none;
+    text-decoration: none;
+}

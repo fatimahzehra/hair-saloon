@@ -1,0 +1,18 @@
+*{
+    background-color:rgb(112, 5, 5) ;
+    color: white;
+}
+.z{
+    position: relative;
+    margin-left: 160px;
+    top: -35px;
+}
+.x{
+    position: relative;
+    margin-left: 190px;
+    top: -65px;
+}
+.q{
+    position: relative;
+    margin-left: 500px;
+}
